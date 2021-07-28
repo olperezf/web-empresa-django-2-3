@@ -17,4 +17,5 @@ Temas contemplados:
 - Urls: configuración de paths en una lista urlpatterns
 - Patron de diseño MVT(modelo-vista-template)
 - Panel de administrador Django(Backend), administrando la información del blog, servicios, redes sociales, política de privacidad, cookies y aviso legal.
+- Mailtrap para el envío de correos.
 - base de datos sqlite.
