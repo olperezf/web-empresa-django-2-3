@@ -16,5 +16,5 @@ Temas contemplados:
 - Vistas basados en funciones
 - Urls: configuración de paths en una lista urlpatterns
 - Patron de diseño MVT(modelo-vista-template)
-- Administración de Django(Backend), administrando la información del blog, servicios, redes sociales, política de privacidad, cookies y aviso legal.
+- Panel de administrador Django(Backend), administrando la información del blog, servicios, redes sociales, política de privacidad, cookies y aviso legal.
 - base de datos sqlite.
