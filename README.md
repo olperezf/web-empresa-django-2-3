@@ -1,7 +1,5 @@
 # Proyecto Django/Python (nivel intermedio) 
 
-basado en el curso de: https://www.udemy.com/course/curso-django-2-practico-desarrollo-web-python-3/
-
 Web sobre presentación de una cafetería (Frontend)
 
 Estructura de la página:  
